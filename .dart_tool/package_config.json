@@ -38,6 +38,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "bson",
+      "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/bson-0.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "charcode",
       "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.3",
       "packageUri": "lib/",
@@ -64,6 +70,12 @@
     {
       "name": "crypto",
       "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/fixnum-0.10.11",
       "packageUri": "lib/",
       "languageVersion": "2.1"
     },
@@ -150,6 +162,24 @@
       "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/mime-0.9.6+3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
+    },
+    {
+      "name": "mongo_dart",
+      "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/mongo_dart-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "mongo_dart_query",
+      "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/mongo_dart_query-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "more",
+      "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/more-1.18.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
     },
     {
       "name": "multi_server_socket",
@@ -332,6 +362,12 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "uuid",
+      "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "vm_service_client",
       "rootUri": "file:///home/genius/.pub-cache/hosted/pub.dartlang.org/vm_service_client-0.2.6+3",
       "packageUri": "lib/",
@@ -359,10 +395,10 @@
       "name": "dart_coop_bank_api",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-02-28T18:19:03.569377Z",
+  "generated": "2020-02-29T09:09:36.826708Z",
   "generator": "pub",
   "generatorVersion": "2.7.1"
 }
